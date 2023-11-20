@@ -1,6 +1,6 @@
 # Colored-Markers
 Learnt to build set of colored markers using different ways to set colors.
-[CSScolorMarkers.png]
+
 # CSS Colors
 Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
 There are different ways to ste colors and how to pair colors with each other.
